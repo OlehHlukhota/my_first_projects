@@ -1,0 +1,131 @@
+body {
+    margin:0;
+    font-family: 'Brush Script MT', cursive;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+}
+
+a{
+    color:inherit;
+    margin: 0;
+    text-decoration-line: none;
+}
+
+.panel{
+    background-color: rgba(62, 116, 45, 0.822);
+    border-radius: 3px;
+    margin:0 7px;
+    height: 50px;
+    position: relative;
+    z-index: 2;
+    
+    
+}
+
+.panel-text{
+    margin: 0px;
+    font-weight: bold;
+    color: white;
+    position: relative;
+    display: block;
+    font-size: 20px;
+}
+.nav{
+    margin:0 10px;
+    line-height: 45px;
+}
+
+.nav:hover{
+    color: rgb(227, 250, 205);
+    text-decoration-line: underline;
+    
+}
+.panel-text{
+    display: flex;
+}
+
+
+.fon{
+    background-image: url(foto/fon.png);
+    height: 650px;
+    margin: 0;
+    justify-content: space-between;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.fon{
+    background-color: #363636;
+}
+
+.logo-img {
+    height: 50px;
+}
+
+div.top2{
+    background-color: rgba(62, 116, 45, 0.822);
+    margin: 25px;
+    border-radius: 10px;
+    color: rgb(212, 250, 205);
+    font-size: 20px;
+    border: 2px;
+}
+.h1{
+    color: rgb(212, 250, 205);
+    font-size: 50px;
+    background-color: rgba(62, 116, 45, 0.822);
+    border-radius: 6px;
+    margin: 5px;
+    padding: 5px;
+}
+.h11{
+    margin: 10px;
+}
+.jmg{
+    height: 310px;
+    border: 3px;
+    margin: 8px;
+}
+.top2{
+    display: flex;
+}
+.yniv:hover{
+    color: rgb(212, 250, 205);
+    text-decoration-line:underline;
+}
+.yniv{
+    display: flex;
+
+}
+
+.jmg2{
+    height: 337px;
+    border: 3px;
+}
+.fot{
+    color:rgb(159, 211, 129); ;
+}
+.yniv{
+    color:rgb(159, 211, 129); ;
+}
+.fon2{
+    background-image: url(foto/fon.png);
+    height: 1250px;
+    margin: 0;
+    justify-content: space-between;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    
+}
+.text{
+    margin:0px;
+}
+.text2{
+    margin: 20px;
+}
+.avt{
+    list-style-type: none;
+    margin: 0 5px;
+}
